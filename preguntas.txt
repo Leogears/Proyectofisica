@@ -1,0 +1,10 @@
+Unidad de fuerza en el SI|Joule|Pascal|Newton|Vatio|3
+Aceleración de la gravedad en la Tierra (aprox. en m/s²)|8.9|9.8|10.8|9.1|2
+La Primera Ley de Newton también se llama ley de|Acción y reacción|Gravedad|Movimiento uniforme|Inercia|4
+Fórmula de la velocidad|v=t/d|v=d/t|v=d*t|v=m*a|2
+Unidad de energía en el SI|Vatio|Newton|Joule|Pascal|3
+Fórmula de la Segunda Ley de Newton|F=m/a|F=m*a|F=a/m|F=m+a|2
+Unidad de presión en el SI|Newton|Joule|Hertz|Pascal|4
+Unidad de potencia en el SI|Vatio|Joule|Newton|Pascal|1
+Velocidad de la luz en el vacío (aprox.)|3 000 km/s|30 000 km/s|300 000 km/s|3 000 000 km/s|3
+La Tercera Ley de Newton se llama ley de|Inercia|Acción y reacción|Gravedad|Fuerza|2
