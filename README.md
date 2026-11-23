@@ -1,4 +1,4 @@
 # Proyectofisica
-El siguiente repositorio contiene el código de python de mi proyecto final que lee un archivo txt y luego de validar que las preguntas tienen el formato correcto el programa ejecuta un juego tipo quiz donde se tienen 3 vidas y una puntuación máxima de 5 puntos 
+El siguiente repositorio contiene el código de python de mi proyecto final que lee un archivo txt y luego de validar que las preguntas tienen el formato correcto el programa ejecuta un juego tipo quiz donde se tienen 3 vidas y una puntuación máxima de 5 puntos selecciona 5 al azar por partida y alterna entre tres pantallas (inicio, juego y resultados) usando una misma ventana. Al comenzar pide el nombre del jugador, valida que exista el archivo y haya suficientes preguntas, y en cada turno muestra el enunciado, 4 opciones y un deslizador (Scale del 1 al 4) para confirmar la respuesta: si aciertas sumas 1 punto, si fallas pierdes 1 vida y ves la opción correcta, y la partida termina al llegar a 0 vidas o completar las 5 preguntas mostrando tu puntaje final. 
 
 <img width="564" height="452" alt="image" src="https://github.com/user-attachments/assets/b4f9c6fc-a4e4-4734-bf86-1ba31a32544f" />
